@@ -87,7 +87,7 @@ Key Areas for Improvement:
 
 ## Testing Report
 
-Download the full testing report in CSV format {}
+Download the full testing report in CSV format {./Testing_Report.csv}
 
 ## References
 
