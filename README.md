@@ -87,7 +87,7 @@ Key Areas for Improvement:
 
 ## Testing Report
 
-Download the full testing report in CSV format {./Testing_Report.csv}
+Download the full testing report in CSV format [here](./Testing_Report.csv).
 
 ## References
 
@@ -97,4 +97,4 @@ Download the full testing report in CSV format {./Testing_Report.csv}
 ---
 
 **Author**: [Muhammad Sami Asghar Mughal]  
-**Date**: January 20, 2025  
+**Date**: January 20, 2025
