@@ -51,23 +51,23 @@ Our testing approach includes:
    ![Code Implementation](./Screenshot%20(85).png)
 
 2. **API Testing with Postman**
-   ![Postman API Testing](./path-to-your-screenshot/Screenshot%20(84).png)
+   ![Postman API Testing](./Screenshot%20(84).png)
 
 3. **Application UI**
-   ![Application UI](./path-to-your-screenshot/Screenshot%20(83).png)
+   ![Application UI](./Screenshot%20(83).png)
 
 4. **Responsive Design Testing**
-   ![Responsive Design Testing](./path-to-your-screenshot/Screenshot%20(82).png)
+   ![Responsive Design Testing](./Screenshot%20(82).png)
 
 5. **Lighthouse Performance Report**
-   ![Lighthouse Report](./path-to-your-screenshot/Screenshot%20(81).png)
+   ![Lighthouse Report](./Screenshot%20(81).png)
 
 6. **OWASP ZAP Security Report**
-   ![OWASP ZAP](./path-to-your-screenshot/Screenshot%20(80).png)
+   ![OWASP ZAP](./Screenshot%20(80).png)
 
 ### Additional Images
-- ![Image 1](./path-to-your-screenshot/2.PNG)
-- ![Image 2](./path-to-your-screenshot/3.PNG)
+- ![Image 1](./screenshot/2.PNG)
+- ![Image 2](./screenshot/3.PNG)
 
 ## Lighthouse Report
 
@@ -83,11 +83,11 @@ Key Areas for Improvement:
 - Improve speed index performance.
 
 ### Details
-![Lighthouse Detailed Report](./path-to-your-screenshot/Screenshot%20(81).png)
+![Lighthouse Detailed Report](./Screenshot%20(81).png)
 
 ## Testing Report
 
-Download the full testing report in CSV format [here](https://github.com/panaverse/learn-nextjs/blob/main/HACKATHONS/Marketplace_Builder_Hackathon_2025/Testing_Report_Sample.csv).
+Download the full testing report in CSV format {}
 
 ## References
 
@@ -96,5 +96,5 @@ Download the full testing report in CSV format [here](https://github.com/panaver
 
 ---
 
-**Author**: [Your Name/Team Name]  
+**Author**: [Muhammad Sami Asghar Mughal]  
 **Date**: January 20, 2025  
