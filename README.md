@@ -48,7 +48,7 @@ Our testing approach includes:
 
 ### Application Development and Testing Process
 1. **Code Implementation**
-   ![Code Implementation](./path-to-your-screenshot/Screenshot%20(85).png)
+   ![Code Implementation](./Screenshot%20(85).png)
 
 2. **API Testing with Postman**
    ![Postman API Testing](./path-to-your-screenshot/Screenshot%20(84).png)
