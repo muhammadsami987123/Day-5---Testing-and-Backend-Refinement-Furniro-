@@ -1,0 +1,6 @@
+Test Case ID,Test Description,Tools Used,Pass/Fail,Remarks
+TC01,Verify API returns all products,Postman,Pass,All products retrieved successfully
+TC02,Check cart addition functionality,React Testing Library,Pass,Cart functionality works as expected
+TC03,Ensure checkout processes correctly,React Testing Library,Pass,Checkout completed without errors
+TC04,Validate image optimization,TinyPNG,Pass,Images optimized with 40% compression
+TC05,Run security vulnerability assessment,OWASP ZAP,Pass,No critical vulnerabilities found
